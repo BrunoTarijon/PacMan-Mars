@@ -1,3 +1,5 @@
+#Dimesoes dos pixels 8x8 display 512x1024, inicio em 0x10040000(heap)
+
 .include "Desenho/mov.asm"
 .include "Analise.asm"
 .include "mapa.asm"
